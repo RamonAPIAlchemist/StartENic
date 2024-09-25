@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "264478702980",
+    "project_id": "startenic-49e30",
+    "storage_bucket": "startenic-49e30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264478702980:android:0720aae52ba096aa0071d1",
+        "android_client_info": {
+          "package_name": "com.example.startenic1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1il_qxvvNNOnyYV6O2BY7zAcjUALyNao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
